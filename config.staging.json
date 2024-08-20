@@ -1,6 +1,0 @@
-{
-    "APP_BASE_URL": "https://staging.api-fitmatch.us",
-    "APP_GOOGLE_SRC": "https://maps.googleapis.com/maps/api/js?key=AIzaSyAd-n52_dO_t4YcUGm6UiIC8ubfI7JHdBE&libraries=places",
-    "APP_GOOGLE_API": "AIzaSyABX4LTqTLQGg_b3jFOH8Z6_H5CDqn8tbc"
-  }
-  
