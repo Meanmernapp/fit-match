@@ -1,0 +1,5 @@
+{
+    "APP_BASE_URL": "https://api-fitmatch.us",
+    "APP_GOOGLE_SRC": "https://maps.googleapis.com/maps/api/js?key=AIzaSyAd-n52_dO_t4YcUGm6UiIC8ubfI7JHdBE&libraries=places",
+    "APP_GOOGLE_API": "AIzaSyAeDZBhjprgq4q4ZxPqvsJEBrrNOWSYOII"
+  }

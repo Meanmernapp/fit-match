@@ -1,0 +1,49 @@
+{
+  "name": "fitmatchsrc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.19.3",
+    "@reduxjs/toolkit": "^2.2.3",
+    "@szhsin/react-accordion": "^1.2.4",
+    "aos": "^2.3.4",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "formik": "^2.4.5",
+    "icofont": "^1.0.0",
+    "js-cookie": "^3.0.5",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "next": "14.1.4",
+    "react": "^18",
+    "react-accessible-accordion": "^5.0.0",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18",
+    "react-google-autocomplete": "^2.7.3",
+    "react-icons": "^5.0.1",
+    "react-phone-input-2": "^2.15.1",
+    "react-phone-number-input": "^3.3.12",
+    "react-redux": "^9.1.2",
+    "react-router-dom": "^6.22.3",
+    "react-select": "^5.8.0",
+    "react-slick": "^0.30.2",
+    "react-spinners": "^0.13.8",
+    "react-table": "^7.8.0",
+    "react-tabs": "^6.0.2",
+    "react-toastify": "^10.0.5",
+    "react-tooltip": "^5.26.4",
+    "redux-persist": "^6.0.0",
+    "typed.js": "^2.1.0",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.2",
+    "typescript": "5.4.5"
+  }
+}
